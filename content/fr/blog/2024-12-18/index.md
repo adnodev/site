@@ -5,7 +5,7 @@ excerpt: "Le projet Mezanno organise un séminaire scientifique consacré aux pl
 date: 2024-12-18T12:20:42+01:00
 lastmod: 2024-12-18T12:20:42+01:00
 draft: false 
-weight: 880
+weight: 891
 images: [mezanno.png]
 categories: ["News"]
 contributors: ["Thierry Pasquier"]

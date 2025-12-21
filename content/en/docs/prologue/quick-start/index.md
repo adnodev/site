@@ -243,6 +243,8 @@ Once your Adno project is online, you can make it visible on a web page by inser
 
 Note that by inserting the URL of an IIIF or non-IIIF image, or an IIIF manifest, you can obtain an IIIF viewer.
 
+The [Page Block Adno](https://github.com/adnodev/Omeka-S-module-PageBlockAdno) module allows Adno projects to be viewed on Omeka S website pages.
+
 [Adno views tags](https://github.com/adnodev/adno-views-tag) allows you to embed different types of visualization in your web pages.
 
 ## Help 
