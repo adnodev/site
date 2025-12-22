@@ -1,5 +1,5 @@
 ---
-title: "Uns visionneuse Adno pour Omeka S"
+title: "Une visionneuse Adno pour Omeka S"
 description: "Ce nouveau module ajoute un nouveau bloc permettant de visualiser un projet Adno pour composer les pages des sites Omeka S."
 excerpt: "Ce module ajoute un nouveau bloc permettant de visualiser un projet Adno pour composer les pages des sites Omeka S."
 date: 2025-12-20T10:10:42+01:00

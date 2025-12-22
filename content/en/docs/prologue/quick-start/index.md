@@ -247,6 +247,23 @@ The [Page Block Adno](https://github.com/adnodev/Omeka-S-module-PageBlockAdno) m
 
 [Adno views tags](https://github.com/adnodev/adno-views-tag) allows you to embed different types of visualization in your web pages.
 
+## Issues
+
+Adno is an online application that uses external online resources. This approach may be subject to restrictions that can impact Adno's functionality and its integration into web pages.
+
+The most common cases:
+
+- It is not possible to insert a resource designated by an address beginning with `http` into a secure site accessible via `https`. For example, if you upload an image to the IIIFHosting service, the default URL provided is http. To use it in Adno, remember to change `http` to `https` at the beginning of the URL.
+- CORS settings on a third-party server prohibit the transfer of data to another domain. The official Adno instance uses a dedicated third-party service to work around this issue.
+
+## Translation
+
+If Adno is not available in the language of your choice, you can contribute by adding a new language and proposing translations on the Adno section of the [Weblate platform](https://hosted.weblate.org/projects/adno/). In the same way, you can propose changes and corrections to existing translations.
+
+## Installation
+
+Adno is a service available freely and free of charge online. Adno is also free software, so you can install it at home or even adapt it to your needs. You can find the source code and all the information on the Adno software repository on [Github](https://github.com/adnodev/adno).
+
 ## Help 
 
 Check the frequently asked questions and the documentation to learn more (beware! these parts are still incomplete). If you have any problems or suggestions, please [contact us](/contact).

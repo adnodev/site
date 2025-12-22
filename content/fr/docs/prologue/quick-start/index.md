@@ -264,6 +264,10 @@ Les cas les plus fréquents :
 - Il n'est pas possible d'insérer une ressources désignées par une adresse débutant par `http` dans un site sécurisé accessible en `https`. Par exemple, si vous déposez une image sur le service [IIIFHosting](http://iiifhosting.com/), l'URL fournie par défaut est en `http`. Pour l'utiliser dans Adno, n'oubliez pas de changer `http` en `https` au début de l'URL.
 - Des [paramétrages CORS](/fr/docs/references/cors/) sur un serveur tiers interdisent le transfert de données vers un autre domaine. L'instance officielle de Adno utilise un service tiers qui lui est dédié pour contourner ce problème.
 
+## Traduction
+
+Si Adno n'est pas disponible dans la langue de votre choix, vous pouvez contribuer ajoutant une nouvelle langue et en proposant des traductions sur l'espace Adno de la plate-forme [Weblate](https://hosted.weblate.org/projects/adno/). De la même façon, vous pouvez proposer des modifications et des corrections aux traductions existantes. 
+
 ## Installation
 
 Adno est une service disponible librement et gratuitement en ligne. Adno est aussi un logiciel libre, vous pouvez donc l'installer chez vous voire l'adapter à vos besoins. Vous retrouverez le code source et toutes les infos sur la [forge logicielle de Adno](https://github.com/adnodev/adno).
