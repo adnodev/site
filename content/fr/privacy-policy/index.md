@@ -15,9 +15,13 @@ L'édition du site [https://adno.app/](https://adno.app), et des services associ
 - Téléphone 05 49 50 33 08 
 - https://emf.fr
 
-Le Directeur de la publication est  Mario Cottron, président de l'Espace Mendès France.
+Le Directeur de la publication est Mario Cottron, président de l'Espace Mendès France.
 
-L'hébergement du site [https://adno.app/](https://adno.app) et des sites associés est assuré par la société [Netlify](https://www.netlify.com/), dont le siège social au 44 Montgomery Street, Suite 300, San Francisco, California 94104. Les usagers sont invités à consulter les [conditions d'utilisation propres à Netlify](https://www.netlify.com/legal/terms-of-use/)
+Ce site est hébergé par la société [GitHub](https://www.github.com/). 
+
+- Contact : [https://enterprise.github.com/contact](https://enterprise.github.com/contact)
+- Adresse : 88 Colin P. Kelly Jr Street, San Francisco, CA 94107 United States
+
 
 ## Conditions générales d'utilisation
 

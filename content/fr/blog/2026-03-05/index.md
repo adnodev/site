@@ -19,8 +19,8 @@ Tous les projets financés publient leurs résultats sous licence libre. Chacun 
 
 Ce financement permettra de poursuivre à développer le logiciel, d’améliorer le respect des standards, l’ergonomie et d’élargir la palette des usages de l’outil et les possibilités de l’intégrer comme composant dans d’autres logiciels. 
 
-https://nlnet.nl/project/ADNO/
+[https://nlnet.nl/project/ADNO/](https://nlnet.nl/project/ADNO/)
 
-https://nlnet.nl/commonsfund/
+[https://nlnet.nl/commonsfund/](https://nlnet.nl/commonsfund/)
 
 

@@ -7,7 +7,7 @@
     languageTag = "en-US"
     title = "Adno"
     titleAddition = "Adno project"
-    footer = "<a href='https://emf.fr'>Espace Mendès France</a>, Poitiers - Nouvelle-Aquitaine (France). <br />This project was supported by the <a href='https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Aides-a-l-innovation-et-a-la-transformation-numerique/Culture-et-innovation-numerique-decouvrez-les-laureats-de-l-appel-a-projets-Services-numeriques-innovants'>French Ministry of Culture</a>."
+    footer = "<a href='https://emf.fr'>Espace Mendès France</a>, Poitiers - Nouvelle-Aquitaine (France). <br />This project was supported by the <a href='https://nlnet.nl'>NLnet foundation</a> with <a href='https://nlnet.nl/project/ADNO/'>NGI Zero Commons Fund</a> and the <a href='https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Aides-a-l-innovation-et-a-la-transformation-numerique/Culture-et-innovation-numerique-decouvrez-les-laureats-de-l-appel-a-projets-Services-numeriques-innovants'>French Ministry of Culture</a>."
 
 [fr]
   languageName = "French"
@@ -18,4 +18,4 @@
     languageTag = "fr-FR"
     title = "Adno"
     titleAddition = "Projet Adno"
-    footer = "<a href='https://emf.fr'>Espace Mendès France</a>, Poitiers - Nouvelle-Aquitaine (France). <br />Ce projet a été soutenu par le <a href='https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Aides-a-l-innovation-et-a-la-transformation-numerique/Culture-et-innovation-numerique-decouvrez-les-laureats-de-l-appel-a-projets-Services-numeriques-innovants'>ministère de la Culture</a>."
+    footer = "<a href='https://emf.fr'>Espace Mendès France</a>, Poitiers - Nouvelle-Aquitaine (France). <br />Ce projet a été soutenu par la <a href='https://nlnet.nl'>fondation NLnet</a> avec le <a href='https://nlnet.nl/project/ADNO/'>NGI Zero Commons Fund</a> et par le <a href='https://www.culture.gouv.fr/Thematiques/Innovation-numerique/Aides-a-l-innovation-et-a-la-transformation-numerique/Culture-et-innovation-numerique-decouvrez-les-laureats-de-l-appel-a-projets-Services-numeriques-innovants'>ministère de la Culture</a>."
