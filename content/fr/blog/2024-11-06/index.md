@@ -2,7 +2,6 @@
 title: "Présentation et ateliers Adno aux Journées annuelles 2024 du Cluster 1 Biblissima+ les 27 et 28 novembre 2024"
 description: "Adno sera présenté aux journées « Des outils IIIF pour valoriser et explorer les collections en ligne ». Plusieurs outils compatibles IIIF feront l'objet de présentations en plénière, le 27 novembre, et d'ateliers le 28 novembre."
 excerpt: "Adno sera présenté aux journées « Des outils IIIF pour valoriser et explorer les collections en ligne ». Plusieurs outils compatibles IIIF feront l'objet de présentations en plénière, le 27 novembre, et d'ateliers le 28 novembre."
-excerpt: "Les journées « Des outils IIIF pour valoriser et explorer les collections en ligne » feront l'objet de présentations en plénière de plusieurs outils compatibles IIIF (le 27/11) et d'ateliers animés par leurs concepteurs ou par des utilisateurs ou implémenteurs de ces solutions (le 28/11)."
 date: 2024-11-06T12:20:42+01:00
 lastmod: 2024-11-06T12:20:42+01:00
 draft: false 
