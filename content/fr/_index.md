@@ -5,7 +5,7 @@ lead: "Adno est une application web permettant de visualiser, d'éditer et de pa
 started: "Essayer Adno !"
 samples: "Exemples"
 urlSamples: "example"
-license: "Votre expérience avec Adno nous intéresse. <br />Merci de compléter ce <a href='https://base.emf.fr/form/kt51KS76UO4tMiClLzEEUDlOaV8e7BV21ijKqgGp2NM'>formulaire</a>." 
+license: "" 
 ad1Title: "Annotez des images"
 ad1Description: "Sélectionnez et commentez des zones d’intérêt sur vos images et celles des autres."
 ad2Title: "Proposez des parcours"
