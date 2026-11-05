@@ -9,7 +9,7 @@ En vigueur au 26/06/2022
 
 ## Mentions légales
 
-L'édition du site [https://adno.app/](https://adno.app), et des services associés [https://w.adno.app/](https://w.adno.app), et [https://r.adno.app/](https://r.adno.app), est assurée par l'association Maison des sciences et des techniques / [Espace Mendès France](https://emf.fr), dont le siège social est situé au 1 place de la Cathédrale, 86000 Poitiers (France).  
+Le site [https://adno.app/](https://adno.app) et le service associé [https://w.adno.app/](https://w.adno.app) sont publiés sous la responsabilité de l'association Maison des sciences et des techniques / [Espace Mendès France](https://emf.fr), dont le siège social est situé au 1 place de la Cathédrale, 86000 Poitiers (France).  
 
 - courriel : {{< email user="contact" domain="adno.app" >}} 
 - Téléphone 05 49 50 33 08 
