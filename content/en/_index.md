@@ -5,7 +5,7 @@ lead: "Adno is a web application for viewing, editing and sharing narratives and
 started: "Get Started"
 samples: "Examples"
 urlSamples: "example"
-license: "Your experience with Adno matters to us. <br />Please take a moment to complete <a href='https://base.emf.fr/form/kt51KS76UO4tMiClLzEEUDlOaV8e7BV21ijKqgGp2NM'>this survey</a>."
+license: ""
 ad1Title: "Annotate images"
 ad1Description: "Select and comment on areas of interest in your images and those of others."
 ad2Title: "Suggest a tour"
